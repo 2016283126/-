@@ -1,0 +1,8 @@
+<!--pages/welcome/welcome.wxml-->
+<view class="container">
+    <image class="avatar" src="/pages/image/002.jpg"></image>
+    <text class="motto">Have a pleasant time </text>
+    <view catchtap="onTapJump" class="journey-container">
+        <text class="journey">开始小游戏</text>
+    </view>
+</view>
